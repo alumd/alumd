@@ -54,21 +54,9 @@ Padrão de resolução acelerada de problemas complexos — característica comu
 
 ## Formação
 
-- **Ensino Médio** — Porto Velho/RO *(em andamento)*
-- **Curso de Manutenção de Drones** — 50h teóricas + 100h de estágio *(previsto)*
-- **Alura** — Python (OO, APIs, Data Science), Lógica de Programação (JS), Git/GitHub, Comunicação em Espanhol
-
----
-
-## Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alumd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alumd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
+- **Ensino Médio** — Porto Velho/RO *(Concluido)*
+- **Curso de Manutenção de Drones** — 48h teóricas + praticas (Concluidos) 100h de estágio *(previsto)*
+- **Alura** — Python (OO, APIs, Data Science), Lógica de Programação (JS), Git/GitHub, Comunicação em Ingles
 
 ---
 
