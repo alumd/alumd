@@ -5,7 +5,7 @@
 ### Desenvolvedor de Sistemas Embarcados & Técnico de Hardware Avançado
 
 [![GitHub](https://img.shields.io/badge/GitHub-alumd-181717?style=flat-square&logo=github)](https://github.com/alumd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elian%20Alves-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/elian-alves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elian%20Alves-0A66C2?style=flat-square&logo=linkedin)]([[https://linkedin.com/in/elian-alves](https://www.linkedin.com/in/alok-manos-deb-44a310359/)])
 [![Email](https://img.shields.io/badge/Email-Pormilcoisaselian@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:Pormilcoisaselian@gmail.com)
 
 </div>
